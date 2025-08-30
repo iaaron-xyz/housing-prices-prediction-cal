@@ -1,5 +1,9 @@
+# environment
 .venv
 venv
+
+# local setup
 .vscode
-data
 .ipynb_checkpoints
+.qodo
+data
