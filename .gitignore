@@ -1,5 +1,7 @@
 # environment
+# windows
 .venv
+# linux
 venv
 
 # local setup
